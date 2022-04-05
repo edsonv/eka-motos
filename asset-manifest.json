@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eka-motos/static/css/main.a1dc948c.css",
+    "main.js": "/eka-motos/static/js/main.77fe74e4.js",
+    "static/js/787.ff60fe38.chunk.js": "/eka-motos/static/js/787.ff60fe38.chunk.js",
+    "static/media/Century_Gothic_Regular.ttf": "/eka-motos/static/media/Century_Gothic_Regular.b1b792bab1bff8f27ba7.ttf",
+    "static/media/Race_Sport_Free_Regular.ttf": "/eka-motos/static/media/Race_Sport_Free_Regular.d1c53326358c332baa95.ttf",
+    "static/media/Alien_Robot_Regular.otf": "/eka-motos/static/media/Alien_Robot_Regular.42dac8ab28433abc9276.otf",
+    "static/media/Alien_Robot_Regular.ttf": "/eka-motos/static/media/Alien_Robot_Regular.bcc522f6645009387e8c.ttf",
+    "static/media/AF_EkaMotos_Principal.svg": "/eka-motos/static/media/AF_EkaMotos_Principal.9cc3518058cf3cea07c4fa52cb9a7c0a.svg",
+    "index.html": "/eka-motos/index.html",
+    "main.a1dc948c.css.map": "/eka-motos/static/css/main.a1dc948c.css.map",
+    "main.77fe74e4.js.map": "/eka-motos/static/js/main.77fe74e4.js.map",
+    "787.ff60fe38.chunk.js.map": "/eka-motos/static/js/787.ff60fe38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1dc948c.css",
+    "static/js/main.77fe74e4.js"
+  ]
+}
