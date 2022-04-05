@@ -1,0 +1,9 @@
+.c-header {
+  display: flex;
+  justify-content: center;
+  
+  >.image-container {
+    width: 50%;
+    aspect-ratio: 2;
+  }
+}

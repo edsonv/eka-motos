@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Race Sport';
+  src:  url('../../fonts/Race_Sport_Free_Regular.ttf') format('TrueType');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Alien Robot';
+  src: url('../../fonts/Alien_Robot_Regular.ttf') format('TrueType'),
+       url('../../fonts/Alien_Robot_Regular.otf') format('OpenType');
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'Century Gothic';
+  src: url('../../fonts/Century_Gothic_Regular.ttf') format('TrueType');
+  font-display: swap;
+}
+
+$ff-race-sport: 'Race Sport', sans-serif;
+$ff-alien-robot: 'Alien Robot', sans-serif;
+$ff-century-gothic: 'Century Gothic', sans-serif;
