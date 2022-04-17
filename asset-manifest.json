@@ -1,28 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.bc5f2df9.css",
-    "main.js": "./static/js/main.a4a2a72f.js",
-    "static/js/31.88635a35.chunk.js": "./static/js/31.88635a35.chunk.js",
-    "static/js/415.06aebc48.chunk.js": "./static/js/415.06aebc48.chunk.js",
+    "main.css": "./static/css/main.936a913d.css",
+    "main.js": "./static/js/main.f445e8f4.js",
     "static/js/787.ff60fe38.chunk.js": "./static/js/787.ff60fe38.chunk.js",
     "static/media/Century_Gothic_Regular.ttf": "./static/media/Century_Gothic_Regular.b1b792bab1bff8f27ba7.ttf",
     "static/media/Race_Sport_Free_Regular.ttf": "./static/media/Race_Sport_Free_Regular.d1c53326358c332baa95.ttf",
     "static/media/Alien_Robot_Regular.otf": "./static/media/Alien_Robot_Regular.42dac8ab28433abc9276.otf",
     "static/media/Alien_Robot_Regular.ttf": "./static/media/Alien_Robot_Regular.bcc522f6645009387e8c.ttf",
     "static/media/AF_EkaMotos_Principal.svg": "./static/media/AF_EkaMotos_Principal.9cc3518058cf3cea07c4fa52cb9a7c0a.svg",
-    "static/media/icons.svg?vil6bf": "./static/media/icons.3ad5c5aef404233df8d5.svg",
-    "static/media/icons.eot?vil6bf": "./static/media/icons.67c09080e29e3a2879ac.eot",
-    "static/media/icons.woff?vil6bf": "./static/media/icons.1b13c810e186b639324e.woff",
-    "static/media/icons.ttf?vil6bf": "./static/media/icons.bdae004ea86df23ac3d1.ttf",
+    "static/media/icomoon.svg?qeeapn": "./static/media/icomoon.63c5bfee79686d8c039d.svg",
+    "static/media/icomoon.eot?qeeapn": "./static/media/icomoon.54d16d062680a1c9c82a.eot",
+    "static/media/icomoon.woff?qeeapn": "./static/media/icomoon.312a42f1fdeef9fbb46c.woff",
+    "static/media/icomoon.ttf?qeeapn": "./static/media/icomoon.f2a9290025eaed282513.ttf",
     "index.html": "./index.html",
-    "main.bc5f2df9.css.map": "./static/css/main.bc5f2df9.css.map",
-    "main.a4a2a72f.js.map": "./static/js/main.a4a2a72f.js.map",
-    "31.88635a35.chunk.js.map": "./static/js/31.88635a35.chunk.js.map",
-    "415.06aebc48.chunk.js.map": "./static/js/415.06aebc48.chunk.js.map",
+    "main.936a913d.css.map": "./static/css/main.936a913d.css.map",
+    "main.f445e8f4.js.map": "./static/js/main.f445e8f4.js.map",
     "787.ff60fe38.chunk.js.map": "./static/js/787.ff60fe38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc5f2df9.css",
-    "static/js/main.a4a2a72f.js"
+    "static/css/main.936a913d.css",
+    "static/js/main.f445e8f4.js"
   ]
 }

@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkekamotos=self.webpackChunkekamotos||[]).push([[415],{415:function(e,t,n){n.r(t),n.d(t,{Home:function(){return s}});var r=n(184),s=function(){return(0,r.jsx)("h1",{className:"u-text-center u-text-gray",style:{fontSize:"50px"},children:"Pr\xf3ximamente"})}}}]);
-//# sourceMappingURL=415.06aebc48.chunk.js.map
