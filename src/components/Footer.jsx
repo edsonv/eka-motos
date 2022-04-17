@@ -4,7 +4,7 @@ export const Footer = () => {
       <ul className="c-rrss-list u-flex u-justify-center">
         <li className="list-item">
           <a href="mailto:contacto@ekamotos.com" className="link">
-            <i className="icon-mail"></i>
+            <i className="icon-envelope"></i>
           </a>
         </li>
         <li className="list-item">
