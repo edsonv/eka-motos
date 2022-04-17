@@ -1,9 +1,10 @@
 .c-header {
   display: flex;
   justify-content: center;
-  
-  >.image-container {
-    width: 50%;
-    aspect-ratio: 2;
+
+  > .image-container {
+    width: 100%;
+    aspect-ratio: 3/2;
+    max-width: 800px;
   }
 }

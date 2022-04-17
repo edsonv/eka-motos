@@ -1,0 +1,16 @@
+.c-rrss-list {
+  list-style: none;
+  margin: 20px;
+
+  .link {
+    color: $clr-cool-gray-2;
+    text-decoration: none;
+    &:hover {
+      color: $clr-white;
+    }
+  }
+
+  [class^="icon-"] {
+    font-size: 28px;
+  }
+}

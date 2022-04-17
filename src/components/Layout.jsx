@@ -1,4 +1,7 @@
-import PrincipalLogo from '../assets/images/AF_EkaMotos_Principal.svg';
+import PropTypes from "prop-types";
+
+import { Footer } from "./Footer";
+import PrincipalLogo from "../assets/images/AF_EkaMotos_Principal.svg";
 
 export const Layout = ({ children }) => {
   return (
@@ -9,6 +12,11 @@ export const Layout = ({ children }) => {
         </div>
       </header>
       <main>{children}</main>
+      <Footer />
     </>
   );
+};
+
+Layout.propTypes = {
+  children: PropTypes.object,
 };
